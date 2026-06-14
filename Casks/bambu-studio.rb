@@ -1,8 +1,8 @@
 cask "bambu-studio" do
-  version "02.07.00.55"
-  sha256 "35ebe15788c07324ee43775816acc28295db5eeeb473a266dd623dc1f456c6c8"
+  version "02.07.01.11790-bj.0"
+  sha256 "777284c7cc7d4e63116c71e0bf40d33bdba1f8e4ae46baf2772d99fa4946e517"
 
-  url "https://github.com/BenJule/BambuStudio/releases/download/v#{version}/BambuStudio_Mac_arm64_V#{version}.zip"
+  url "https://github.com/BenJule/BambuStudio/releases/download/v02.07.01.11790-bj.0/BambuStudio_macos-15_universal_V02.07.01.11790.dmg"
   name "BambuStudio"
   desc "Slicer for Bambu Lab 3D printers"
   homepage "https://github.com/BenJule/BambuStudio"
